@@ -1,6 +1,6 @@
 # Output File
 OUTPUT_DIR =	.
-NAME = 				$(OUTPUT_DIR)/start_with_functions
+NAME = 				$(OUTPUT_DIR)/a.out
 
 # Directories
 INCLUDES_DIR =	.
